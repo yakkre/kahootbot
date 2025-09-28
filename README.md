@@ -1,6 +1,4 @@
 # kahootbot
-mac tutorial:<br>
-<br>
 so obviously you're gonna need to make a file named something like "KahootBot" <br>
 you're gonna have to install node for this.<br>
 after you install node, in (terminal for mac, command prompt/powershell for windows) type and send "npm install"<br>
